@@ -1,4 +1,4 @@
-def parrot(parrot=Squawk)
+def parrot=Squawk!
  puts"parrot!" 
  "parrot"
 end
