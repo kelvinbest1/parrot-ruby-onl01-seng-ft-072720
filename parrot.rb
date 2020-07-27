@@ -1,3 +1,3 @@
-def puts_parrot(parrot=Squawk)
+def parrot(parrot=Squawk)
   puts puts_parrot
 end
