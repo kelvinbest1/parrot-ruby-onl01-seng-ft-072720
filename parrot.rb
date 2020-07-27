@@ -1,3 +1,3 @@
-def puts_parrot="Squawk!"
+def puts_parrot(parrot=Squawk)
   puts puts_parrot
 end
