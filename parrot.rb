@@ -1,2 +1,2 @@
-def parrot=(parrot="Squawk!")
+def parrot=(phrase="Squawk!")
 end
